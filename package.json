@@ -1,0 +1,17 @@
+{
+  "name": "imageTest",
+  "version": "0.0.4",
+  "description": "",
+  "main": "demo.js",
+  "files": [
+    "generators"
+  ],
+  "scripts": {
+
+  },
+  "keywords": "",
+  "author": "Ants",
+  "dependencies": {
+    "images": "*"
+  }
+}
